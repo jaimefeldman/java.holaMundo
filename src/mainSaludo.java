@@ -5,6 +5,7 @@ public class mainSaludo {
 		// Saludando al mundo
 		
 		System.out.println("Hola, mundo desde Java!");
+		System.out.println("this is a test!");
 
 	}
 
